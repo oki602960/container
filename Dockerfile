@@ -1,1 +1,1 @@
-FROM ghcr.io/gethomepage/homepage:dev
+FROM ghcr.io/muchobien/pocketbase:latest
