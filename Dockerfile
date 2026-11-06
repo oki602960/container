@@ -1,1 +1,1 @@
-FROM ghcr.io/muchobien/pocketbase:latest
+FROM ghcr.io/open-webui/open-webui:slim
